@@ -1,6 +1,4 @@
-public class fdsfdsfdss {
-    public class Reverse  
-    {  
+public class fdsfdsfdss {  
         public static void main(String[] args) {  
             String string = "Dream big";  
             //Stores the reverse of given string  
@@ -16,4 +14,3 @@ public class fdsfdsfdss {
             System.out.println("Reverse of given string: " + reversedStr);  
         }  
     }  
-}
